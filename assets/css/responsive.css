@@ -1,0 +1,142 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	
+.section_title {
+	padding-bottom: 20px;
+}
+.section_title h2 {
+	font-size: 32px;
+}
+.cmn_padding{
+	padding:80px 0px;
+}
+.slider_content h1 {
+	font-size: 58px;
+	line-height: 80px;
+}
+.slider_content p{
+	font-size:22px;
+}
+.about_content {
+	padding: 50px 40px 50px 60px;
+}
+.special_item {
+	padding: 24px 0px;
+}
+.special_item h3 {
+	font-size: 14px;
+}
+.single_progressbar h4 {
+	font-size: 18px;
+	line-height: 18px;
+}
+.brand_logo {
+	padding: 15px 0px;
+}
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+.section_title h2 {
+	font-size: 30px;
+}
+.section_title p{
+	font-size: 22px;
+}
+.cmn_padding{
+	padding:60px 0px;
+}
+.logo a img {
+	max-width: 110px;
+}
+.mainmenu ul {
+	padding: 3px 0px;
+}
+.search {
+	padding: 12px;
+}
+.slider_content h1 {
+	font-size: 44px;
+	line-height: 62px;
+}
+.slider_content p {
+	font-size: 22px;
+}
+a.block_btn {
+	padding: 7px 35px;
+}
+.slider .owl-nav div,.slider .owl-dots{
+	display:none;
+}
+.about_area .section_title{
+	padding-bottom:10px;
+}
+.about_area .section_title h2{
+	font-size: 25px;
+}
+.about_content {
+	padding: 30px 40px 30px 20px;
+}
+.about_text ul li {
+	padding: 25px 20px;
+}
+.special_item {
+	padding: 10px 0px;
+}
+.special_item img {
+	max-width: 40px;
+}
+.special_item h3 {
+	font-size: 12.5px;
+}
+.single_cta h2{
+	font-size: 26px;
+}
+.single_cta h2 span {
+	font-size: 46px;
+}
+.skill_area .section_title {
+	padding-bottom: 12px;
+}
+.single_progressbar h4 {
+	font-size: 16px;
+	line-height: 2px;
+}
+.team_member{
+	margin-bottom:60px;
+}
+.single_service, .footer_col, .single_news{
+	margin-bottom:30px;
+}
+
+
+
+
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+	
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+.header_area.sticky.scroll-header {
+	display:none;
+}
+.about_img img {
+	display: none;
+}
+
+
+
+}
